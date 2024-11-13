@@ -3,6 +3,8 @@
 /Patterns/!*.*
 /Basic-CPP/*
 /Basic-CPP/!*.*
+/Array/*
+/Array/!*.*
 
 # Ignore VS Code specific files
 .vscode/
