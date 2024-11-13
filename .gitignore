@@ -1,8 +1,8 @@
 # Ignore C++ binary files
 /Patterns/*
 /Patterns/!*.*
-/Basic-C++/*
-/Basic-C++!*.*
+/Basic-CPP/*
+/Basic-CPP/!*.*
 
 # Ignore VS Code specific files
 .vscode/
